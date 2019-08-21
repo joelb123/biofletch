@@ -1,0 +1,87 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Archives #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+logs/
+*.log
+*.sql
+*.sqlite
+
+# OS-generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+thumbs.db
+Thumbs.db
+
+# IDE-generated files #
+#######################
+.idea/
+
+# Python-generated files #
+##########################
+*.pyc
+MANIFEST
+htmlcov
+*.egg-info
+__pycache__
+.cache
+.eggs
+.egg
+.xprocess
+.ropeproject
+dist
+
+# sphinx files #
+################
+docs/_build/
+
+# directories #
+###############
+build/
+env/
+tmp/
+
+# version #
+###########
+version.py
+
+# files with secrets #
+######################
+crashmail_email.txt
+secret_key.txt
+sentry_dsn.txt
+
+
+# docutils #
+############
+readme.html
+
+# virtual environment #
+#######################
+venv
+
+# src directory (git installs)#
+###############################
+src
